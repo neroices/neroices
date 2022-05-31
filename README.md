@@ -2,7 +2,6 @@
 
 <p align="left"><b>「</b></p>
   <p align="center">
-  <samp>Hi there 👋<br>
-        A unpassionate developer from Earth.</samp>
+  <samp>Hi there 👋</samp>
   </p>
 <p align="right"><b>」</b></p>

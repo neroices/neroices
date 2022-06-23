@@ -1,5 +1,3 @@
-
-
 <p align="left"><b>「</b></p>
 <p align="center">
    <samp>:)</samp>

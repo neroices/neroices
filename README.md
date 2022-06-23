@@ -2,6 +2,6 @@
 
 <p align="left"><b>「</b></p>
 <p align="center">
-   <samp>Why....</samp>
+   <samp>:)</samp>
 </p>
 <p align="right"><b>」</b></p>

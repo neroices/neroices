@@ -10,5 +10,4 @@
     <samp> ?? </samp>
   </summary>
 </details>
-</div>
 <p align="right"><b>」</b></p>

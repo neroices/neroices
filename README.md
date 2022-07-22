@@ -4,7 +4,7 @@
 <summary>
    <strong>I have <del>no</del> <ins><i>special</i></ins> talent.</strong>
    <br>
-   <samp>I know I may have done some bad things</samp>
+   <samp><sub>I know I may have done some bad things</sub></samp>
    <br>
    <br>
     <samp> ?? </samp>

@@ -7,7 +7,7 @@
    <i><sub>I know I may have done some bad things</sub></i>
    <br>
    <br>
-    <samp> ?? </samp>
+    <samp>??</samp>
   </summary>
 </details>
 <p align="right"><b>」</b></p>

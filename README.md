@@ -1,4 +1,3 @@
-
 <p align="left"><b>「</b></p>
   <details align="center">
 <summary>

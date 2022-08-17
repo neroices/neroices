@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="800px" src="src/bongo.png" /></a></p>
+
 <p align="left"><b>「</b></p>
   <details align="center">
 <summary>

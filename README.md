@@ -1,7 +1,7 @@
 <p align="left"><b>「</b></p>
   <details align="center">
 <summary>
-   <strong>Hi there!</strong>
+   <strong>I have <del>no</del> <ins><i>special</i></ins> talent.</strong>
   </summary>
   <p align="center"><a href="#"><img width="800px" src="src/bongo.png" /></a></p>
   <br>

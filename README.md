@@ -1,5 +1,5 @@
 <p align="left"><b>「</b></p>
-  <details align="center">
+<details align="center">
 <summary>
    <samp>&nbsp;0XCAFEBABE</samp>
   </summary>

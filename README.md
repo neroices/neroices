@@ -3,7 +3,7 @@
 <summary>
    <samp><strong>0XCAFEBABE</strong></samp>
   </summary>
-   <samp><sub>Hi there!</sub></samp>
+   <samp><sub>wrld.xecute(me);</sub></samp>
    <br />
    <br />
 </details>

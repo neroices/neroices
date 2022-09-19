@@ -3,7 +3,6 @@
 <summary>
    <samp><strong>0XCAFEBABE</strong></samp>
   </summary>
-   <br />
    <samp><sub>??</sub></samp>
    <br />
    <br />

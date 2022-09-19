@@ -3,7 +3,7 @@
 <summary>
    <samp><strong>0XCAFEBABE</strong></samp>
   </summary>
-   <samp><sub>I might look like I’m doing nothing, but in my head, I’m quite busy.</sub></samp>
+   <samp><sub>No talk, nothing.</sub></samp>
    <br />
    <br />
 </details>

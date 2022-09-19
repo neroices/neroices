@@ -1,7 +1,7 @@
 <p align="left"><b>「</b></p>
 <details align="center">
 <summary>
-   <samp><strong>null</strong></samp>
+   <samp><strong>nullptr</strong></samp>
   </summary>
    <samp><sub>wrld.xecute(me);</sub></samp>
    <br />

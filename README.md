@@ -1,7 +1,7 @@
 <p align="left"><b>「</b></p>
 <details align="center">
 <summary>
-   <samp><strong>0XCAFEBABE</strong></samp>
+   <samp><strong>null</strong></samp>
   </summary>
    <samp><sub>wrld.xecute(me);</sub></samp>
    <br />

@@ -3,6 +3,15 @@
 <summary>
    <samp><strong>afk</strong></samp>
   </summary>
+<pre align="center">
+⣀⡀
+⢠⣤⡀⣾⣿⣿⠀⣤⣤⡄
+⢿⣿⡇⠘⠛⠁⢸⣿⣿⠃
+⠈⣉⣤⣾⣿⣿⡆⠉⣴⣶⣶
+⣾⣿⣿⣿⣿⣿⣿⡀⠻⠟⠃
+⠙⠛⠻⢿⣿⣿⣿⡇
+⠀⠀⠀⠀⠈⠙⠋⠁
+</pre>
    <samp><sub>wrld.xecute(me);</sub></samp>
    <br />
    <br />

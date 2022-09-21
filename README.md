@@ -1,7 +1,7 @@
 <p align="left"><b>「</b></p>
 <details align="center">
 <summary>
-   <samp><strong>afk</strong></samp>
+   <samp><strong>Hello, World!</strong></samp>
   </summary>
 <pre align="center">
 ⣀⡀

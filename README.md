@@ -1,7 +1,7 @@
 <p align="left"><b>「</b></p>
 <details align="center">
 <summary>
-   <samp><strong>nullptr</strong></samp>
+   <samp><strong>afk</strong></samp>
   </summary>
    <samp><sub>wrld.xecute(me);</sub></samp>
    <br />

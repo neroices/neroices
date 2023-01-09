@@ -1,7 +1,7 @@
 <p align="left"><b>「</b></p>
 <details align="center">
 <summary>
-   <samp><strong>Hello, World!</strong></samp>
+   <samp><strong>0XCAFEBABE</strong></samp>
   </summary>
   <br />
 <pre align="center">

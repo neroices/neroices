@@ -5,7 +5,7 @@ Woah, why do you wanna know the raw contents of this file?
 <p align="left"><b>「</b></p>
 <details align="center">
 <summary>
-   <samp><strong>0XCAFEBABE</strong></samp>
+   <samp><strong>PRESS TO START</strong></samp>
   </summary>
   <br />
 <pre align="center">

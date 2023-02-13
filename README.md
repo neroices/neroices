@@ -26,7 +26,7 @@ Woah, why do you wanna know the raw contents of this file?
 ⠀⠀⠀⠀⠀⠉⠀⠀⠀⠙⢿⣳⠞⠳⡄⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠹⣄⣀⡤⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
-   <samp><sub>wrld.xecute(me);</sub></samp>
+   <samp><sub>Don't give up with failure because there are many other failures that you have not tried.</sub></samp>
    <br />
    <br />
 </details>

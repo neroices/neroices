@@ -2,7 +2,6 @@
 Woah, why do you wanna know the raw contents of this file?
                         Kinda sus
 -->
-<p align="left"><b>「</b></p>
 <pre align="center">
                  ⢀⢀               
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠊⠀⠀⠈⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -27,4 +26,3 @@ Woah, why do you wanna know the raw contents of this file?
    <i>Don't give up with failure because there are many other failures that you have not tried.</i>
  </sub>
 </p>
-<p align="right"><b>」</b></p>

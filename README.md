@@ -5,6 +5,7 @@
     ♪♪♪~
   <br />
   <br />
-  <br />
-  <br />
 </p>
+
+
+![c](https://komarev.com/ghpvc/?username=neroices&style=pixel)

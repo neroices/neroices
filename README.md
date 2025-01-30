@@ -1,11 +1,13 @@
-<p align="center">
-  <br />
-  <br />
-  <br />
-    ♪♪♪~
-  <br />
-  <br />
-</p>
+```fish
+> ./hello
 
+   ／l、        name     : neroices
+ （ﾟ､ ｡７       pronouns : he/him
+  l、ﾞ~ヽ       email    : git@slce.moe
+  じし(_,)ノ    x        : letsmakeices
+
+> _
+```
 
 ![c](https://komarev.com/ghpvc/?username=neroices&style=pixel)
+

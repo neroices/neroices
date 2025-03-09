@@ -1,4 +1,4 @@
-```sh
+```md
 >./hello
               welcome to my github profile ✨
               ------------------------------

@@ -8,8 +8,8 @@
   じし(_,)ノ   gaming break are all steps in figuring things out. i’m not in a rush. i’m here to learn, grow, and enjoy the process.
 ```
 
-**[reddit]&nbsp;&nbsp;&nbsp;&nbsp;>** `neroices`
-**[x]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>** `letsmakeices`
+**[reddit]&nbsp;&nbsp;&nbsp;&nbsp;>** `neroices`\
+**[x]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>** `letsmakeices`\
 **[e-mail]&nbsp;&nbsp;&nbsp;>** `git [at] slce.moe`
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E51BM59I)

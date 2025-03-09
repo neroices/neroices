@@ -10,9 +10,10 @@
 >_
 ```
 
-**[reddit]&nbsp;&nbsp;&nbsp;&nbsp;>** `neroices`\
+**[reddit]&nbsp;&nbsp;&nbsp;&nbsp;>** `u/neroices`\
 **[x]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>** `letsmakeices`\
-**[e-mail]&nbsp;&nbsp;&nbsp;&nbsp;>** `git [at] slce.moe`
+**[e-mail]&nbsp;&nbsp;&nbsp;&nbsp;>** `git [at] slce.moe`\
+**[xda]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>** `neroices`
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/neroices)
 ![c](https://komarev.com/ghpvc/?username=neroices&style=pixel)

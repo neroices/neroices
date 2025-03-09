@@ -1,11 +1,13 @@
 ```sh
-> ./hello
+>./hello
               welcome to my github profile ✨
               ------------------------------
    ／l 、      i’m someone who enjoys tinkering with technology,whether it’s messing around with code or whatever else catches my interest.
  （ﾟ､ ｡７      still a beginner when it comes to programming, but that’s just part of the grind, but I see it as a journey rather than a race.
   l、ﾞ~ヽ      i’m still exploring what truly excites me, and that’s okay. every coding session, every small project, and even the occasional
   じし(_,)ノ   gaming break are all steps in figuring things out. i’m not in a rush. i’m here to learn, grow, and enjoy the process.
+
+>_
 ```
 
 **[reddit]&nbsp;&nbsp;&nbsp;&nbsp;>** `neroices`\

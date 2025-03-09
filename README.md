@@ -14,5 +14,5 @@
 **[x]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>** `letsmakeices`\
 **[e-mail]&nbsp;&nbsp;&nbsp;&nbsp;>** `git [at] slce.moe`
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E51BM59I)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/neroices)
 ![c](https://komarev.com/ghpvc/?username=neroices&style=pixel)

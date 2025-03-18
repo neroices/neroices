@@ -14,5 +14,4 @@
 **[x]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>** `letsmakeices`\
 **[e-mail]&nbsp;&nbsp;&nbsp;&nbsp;>** `git [at] slce.moe`\
 **[xda]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>** `neroices`
-
 ![c](https://komarev.com/ghpvc/?username=neroices&style=pixel)
